@@ -38,4 +38,5 @@ doc/src/examples/makefile/main
 *.pbxproj
 *.DS_Store
 *.pyc
+*.vs
 /build*
